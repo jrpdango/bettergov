@@ -54,5 +54,3 @@ async function fetchHrep() {
 }
 
 fetchHrep();
-
-// Some comment
